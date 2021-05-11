@@ -8,4 +8,5 @@ A list of articles for future references
 * [guide to react useeffect hook](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
 
 ## Javascript Libraries
-* [svelte](http://sveltejs.com/)
+* [svelte js](http://sveltejs.com/)
+* [svelte.dev](https://svelte.dev/)
