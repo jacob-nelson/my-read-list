@@ -6,6 +6,7 @@ A list of articles for future references
 
 ## React JS
 * [guide to react useeffect hook](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
+* [a complete guide to useeffect](https://overreacted.io/a-complete-guide-to-useeffect/)
 
 ## Javascript Libraries
 * [svelte js](http://sveltejs.com/)
