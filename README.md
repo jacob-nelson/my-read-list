@@ -8,6 +8,7 @@ A list of articles for future references
 * [guide to react useeffect hook](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
 * [a complete guide to useeffect](https://overreacted.io/a-complete-guide-to-useeffect/)
 * [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
+* [React Redux Tutorial for Beginners: The Complete Guide (2020)](https://www.valentinog.com/blog/redux/)
 
 ## Javascript Libraries
 * [svelte js](http://sveltejs.com/)
