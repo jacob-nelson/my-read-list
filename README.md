@@ -5,6 +5,7 @@ A list of articles for future references
 * [10 User Interface Design Fundamentals](https://blog.teamtreehouse.com/10-user-interface-design-fundamentals)
 
 ## React JS
+* [React Tutorial: An Overview and Walkthrough](https://www.taniarascia.com/getting-started-with-react/)
 * [guide to react useeffect hook](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
 * [a complete guide to useeffect](https://overreacted.io/a-complete-guide-to-useeffect/)
 * [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
