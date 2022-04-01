@@ -14,3 +14,7 @@ A list of articles for future references
 ## Javascript Libraries
 * [svelte js](http://sveltejs.com/)
 * [svelte.dev](https://svelte.dev/)
+
+## MDN Web Docs
+* [Optional chaining (?.)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
+* [Rest parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
