@@ -30,5 +30,9 @@ A list of articles for future references
 * [Top 40 ReactJS Interview Questions and Answers for 2023](https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions)
 * [45 Advanced React Interview Questions (With Hooks) Devs Must Clarify and Know](https://www.fullstack.cafe/blog/react-js-interview-questions)
 
+## JavaScript Interview Questions
+
+* [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
+
 ## Angular Interview Questions
 * [Angular Interview Questions & Answers](https://github.com/sudheerj/angular-interview-questions#what-is-router-state)
