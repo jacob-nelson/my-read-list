@@ -1,6 +1,7 @@
 # my read list
 A list of articles for future references
 
+* [Open Source Guides](https://opensource.guide/)
 * [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html)
 * [10 User Interface Design Fundamentals](https://blog.teamtreehouse.com/10-user-interface-design-fundamentals)
 * [Killer JavaScript One Liners - JavaScript One Liners to Solve Common Problems](https://kumartul.hashnode.dev/killer-javascript-one-liners?source=personalized-newsletter&source-id=2022-09-22)
