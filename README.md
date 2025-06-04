@@ -1,7 +1,7 @@
 # my read list
 A list of articles for future references
 
-* [JavaScript Algorithms and Data Structures Certification](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures&ved=2ahUKEwi6z5LWhteNAxVo2TgGHco4BKMQFnoECBgQAQ&usg=AOvVaw07AFEmg4r_7HlOnWwz-JtK)
+* [JavaScript Algorithms and Data Structures Certification - Freecodecamp](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures&ved=2ahUKEwi6z5LWhteNAxVo2TgGHco4BKMQFnoECBgQAQ&usg=AOvVaw07AFEmg4r_7HlOnWwz-JtK)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 * [Open Source Guides](https://opensource.guide/)
 * [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html)
