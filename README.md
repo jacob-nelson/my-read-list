@@ -1,13 +1,18 @@
 # my read list
 A list of articles for future references
 
-* [JavaScript Algorithms and Data Structures Certification - Freecodecamp](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures&ved=2ahUKEwi6z5LWhteNAxVo2TgGHco4BKMQFnoECBgQAQ&usg=AOvVaw07AFEmg4r_7HlOnWwz-JtK)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 * [Open Source Guides](https://opensource.guide/)
 * [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html)
 * [10 User Interface Design Fundamentals](https://blog.teamtreehouse.com/10-user-interface-design-fundamentals)
 * [Killer JavaScript One Liners - JavaScript One Liners to Solve Common Problems](https://kumartul.hashnode.dev/killer-javascript-one-liners?source=personalized-newsletter&source-id=2022-09-22)
 * [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
+
+## Certifications
+
+* [Legacy JavaScript Algorithms and Data Structures - Freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+* [JavaScript Algorithms and Data Structures V8](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+* [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 ## React JS
 * [React Tutorial: An Overview and Walkthrough](https://www.taniarascia.com/getting-started-with-react/)
